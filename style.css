@@ -1,0 +1,25 @@
+body {
+    background-image: url(cuteheart.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.container{
+    margin-top: 3cm;
+    display: flex;
+    flex-wrap: wrap;
+}
+.item2{
+    display: block;
+}
+.item1 {
+    margin-top: 0.3cm;
+    text-align: left;
+    display: block;
+    height: 400px;
+    width: 640px;
+    font-family: sans-serif;
+    border-radius: 0.8cm;
+}
+
